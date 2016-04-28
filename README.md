@@ -1,3 +1,7 @@
 # gitskillsi
 hahah
-&simple
+<<<<<<< HEAD
+simple
+=======
+simple
+>>>>>>> feature1
